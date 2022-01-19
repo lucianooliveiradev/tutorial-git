@@ -38,8 +38,6 @@ Com o comando acima será criada uma pasta `.git` dentro da pasta do projeto , n
 
 Você vai preencher com as informações do projeto, então dar o nome do repositório, colocar uma breve descrição e criar
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/836828773067915274/unknown.png">
-
 Logo depois vai aparecer essa página um pouco cinza e confusa e com vários comandos (pode até perceber que alguns deles jpa usamos), mas o que você tem que fazer é bem simples, apenas copie o link que aparecer para você
 
 * Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github, usamos o `git remote add origin <link do repositório>`
